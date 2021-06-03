@@ -1,0 +1,6 @@
+{
+	"appId": "com.piwi.appweb.BELV",
+	"appName": "appReactBELV",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
